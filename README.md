@@ -1,6 +1,4 @@
-# Oneflow - FrontEnd Assignment
-
-Create a web-application using React as presented below.
+# Here is a demo from previous FrontEnd assignmnet
 
 ## General
 
